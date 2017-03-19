@@ -469,6 +469,7 @@
   <project path="build" name="build" remote="screwd" revision="n7x-caf" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <project path="device/oneplus/oneplus3" name="device_oneplus_oneplus3" remote="screwd" revision="n7x-caf" />
   <project path="device/qcom/common" name="device_qcom_common" remote="screwd" revision="n7x-caf" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="screwd" revision="n7x-caf" />
   <project path="external/busybox" name="external_busybox" remote="screwd" revision="n7x" />
