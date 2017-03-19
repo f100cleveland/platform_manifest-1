@@ -28,7 +28,7 @@ $ mkdir WORKSPACE
 $ cd WORKSPACE
 
 # Install Repo in the created directory
-$ repo init -u https://github.com/ScrewdAOSP/platform_manifest -b n7x
+$ repo init -u https://github.com/ScrewdAOSP/platform_manifest -b n7x-caf
 ```
 
 ### Downloading the source tree ###
@@ -46,15 +46,15 @@ $ repo sync -j4
 
 The bundled builder tool `./rom-build.sh`handles all the building steps for 
 the specified device automatically. As the device value, you just feed it with the device codename 
-(for example, 'angler' for the Nexus 6p).
+(for example, 'oneplus3' for the OnePlus 3).
 
 ```bash
 # Go to the root of the source tree...
 $ cd WORKSPACE
 # ...and run the builder tool.
 $ ./rom-build.sh DEVICE
-# So if you want to build for the Nexus 6p, run:
-$ ./rom-build.sh angler
+# So if you want to build for the OnePlus 3, run:
+$ ./rom-build.sh oneplus3
 ```
 
 If all goes well, you will see a message showing where the completed build is located.
