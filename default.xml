@@ -513,7 +513,7 @@
   <project path="system/core" name="system_core" remote="screwd" revision="n7x-caf" />
   <project path="system/extras" name="system_extras" remote="screwd" revision="n7x-caf" />
   <project path="system/media" name="system_media" remote="screwd" revision="n7x-caf" />
-  <project path="system/netd" name="system_netd" remote="screwd" revision="n7x" />
+  <project path="system/netd" name="system_netd" remote="screwd" revision="n7x-caf" />
   <project path="system/sepolicy" name="system_sepolicy" remote="screwd" revision="n7x-caf" />
   <project path="system/vold" name="system_vold" remote="screwd" revision="n7x-caf" />
   <project path="vendor/screwd" name="vendor_screwd" remote="screwd" revision="n7x-caf" >
