@@ -494,7 +494,7 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="screwd" revision="n7x" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="screwd" revision="n7x" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="screwd" revision="n7x" />
-  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="screwd" revision="n7x" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="screwd" revision="n7x-caf" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="screwd" revision="n7x" />
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="screwd" revision="n7x" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="screwd" revision="n7x" />
