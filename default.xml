@@ -478,7 +478,6 @@
   <project path="frameworks/native" name="frameworks_native" remote="screwd" revision="n7x-caf" />
   <project path="frameworks/support" name="frameworks_support" remote="screwd" revision="n7x" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="screwd" revision="n7x-caf" />
-  <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="screwd" revision="n7x-caf" />
   <project path="hardware/broadcom/wlan" name="hardware_broadcom_wlan" remote="screwd" revision="n7x" />
   <project path="hardware/qcom/bt" name="hardware_qcom_bt" remote="screwd" revision="n7x" />
   
@@ -526,6 +525,7 @@
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="du" revision="n7x-caf" />
   <project path="external/libnfnetlink" name="android_external_libnfnetlink" remote="du" revision="n7x-caf" />
   <project path="frameworks/av" name="android_frameworks_av" remote="du" revision="n7x-caf" />
+  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="du" revision="n7x-caf" />
   <project path="hardware/qcom/audio/default" name="android_hardware_qcom_audio" remote="du" revision="n7x-caf" />
   <project path="hardware/qcom/audio-caf/msm8974" name="android_hardware_qcom_audio" remote="du" revision="n7x-caf-8974" />
   <project path="hardware/qcom/audio-caf/msm8994" name="android_hardware_qcom_audio" remote="du" revision="n7x-caf-8994" />
