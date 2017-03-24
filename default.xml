@@ -544,7 +544,7 @@
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="du" revision="n7x-caf" />
   <project path="vendor/qcom/opensource/dpm" name="android_vendor_qcom_opensource_dpm" remote="du" revision="n7x-caf" />
   <project path="vendor/qcom/opensource/time-services" name="android_vendor_qcom_opensource_time-services" remote="du" revision="n7x-caf" />
-  <project path="hardware/ril" name="android_hardware_ril" remote="du" revision="n7x-caf" />
+  <project path="hardware/ril-caf" name="android_hardware_ril" remote="du" revision="n7x-caf" />
   <project path="hardware/qcom/bt-caf" name="hardware_qcom_bt" remote="du" revision="n7x-caf" />
   
   <!-- UBER Toolchains -->
