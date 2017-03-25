@@ -14,7 +14,6 @@
   <!-- Screw'd Repos -->
   <project path="platform_manifest" name="platform_manifest" remote="screwd" revision="n7x-caf2" />
   <project path="art" name="art" remote="screwd" revision="n7x" />
-  <project path="bionic" name="bionic" remote="screwd" revision="n7x-caf" />
   <project path="bootable/recovery" name="bootable_recovery" remote="screwd" revision="n7x" />
   <project path="build/kati" name="build_kati" remote="screwd" revision="n7x" />
   <project path="build" name="build" remote="screwd" revision="n7x-caf" >
@@ -30,8 +29,6 @@
   <project path="frameworks/native" name="frameworks_native" remote="screwd" revision="n7x-caf" />
   <project path="frameworks/support" name="frameworks_support" remote="screwd" revision="n7x" />
   <project path="hardware/broadcom/wlan" name="hardware_broadcom_wlan" remote="screwd" revision="n7x" />
-  <project path="hardware/qcom/bt" name="hardware_qcom_bt" remote="screwd" revision="n7x" />
-  <project path="hardware/qcom/keymaster" name="hardware_qcom_keymaster" remote="screwd" revision="n7x" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="screwd" revision="n7x" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="screwd" revision="n7x" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="screwd" revision="n7x" />
@@ -61,7 +58,6 @@
   <project path="prebuilts/misc" name="prebuilts_misc" remote="screwd" revision="n7x" />
   <project path="system/core" name="system_core" remote="screwd" revision="n7x-caf" />
   <project path="system/extras" name="system_extras" remote="screwd" revision="n7x-caf" />
-  <project path="system/netd" name="system_netd" remote="screwd" revision="n7x-caf" />
   <project path="system/sepolicy" name="system_sepolicy" remote="screwd" revision="n7x-caf" />
   <project path="vendor/screwd" name="vendor_screwd" remote="screwd" revision="n7x" >
      <copyfile src="build.sh" dest="rom-build.sh" />

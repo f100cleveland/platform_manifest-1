@@ -557,6 +557,9 @@
 
   <!-- Import from LineageOS -->
   <include name="manifests/laos.xml" />
+
+  <!-- Import from AOSP-CAF -->
+  <include name="manifests/caf.xml" />
   
   <!-- Add UBERTC -->
   <include name="manifests/ubertc.xml" />

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="aosp-caf"
+           fetch="https://github.com/AOSP-CAF"
+           revision="refs/heads/n-mr1" />
+
+  <!-- BEGIN AOSP-CAF -->
+  <project name="device_qcom_common" path="device/qcom/common" remote="aosp-caf" />
+  <project name="device_qcom_sepolicy" path="device/qcom/sepolicy" remote="aosp-caf" />
+  <project name="platform_bionic" path="bionic" remote="aosp-caf" />
+  <project name="platform_external_ant-wireless_ant_native" path="external/ant-wireless/ant_native" remote="aosp-caf" />
+  <project name="platform_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="aosp-caf" />
+  <project name="platform_external_bash" path="external/bash" remote="aosp-caf" />
+  <project name="platform_external_connectivity" path="external/connectivity" remote="aosp-caf" />
+  <project name="platform_external_e2fsprogs" path="external/e2fsprogs" remote="aosp-caf" />
+  <project name="platform_external_exfat" path="external/exfat" remote="aosp-caf" />
+  <project name="platform_external_f2fs-tools" path="external/f2fs-tools" remote="aosp-caf" />
+  <project name="platform_external_fsck_msdos" path="external/fsck_msdos" remote="aosp-caf" />
+  <project name="platform_external_fuse" path="external/fuse" remote="aosp-caf" />
+  <project name="platform_external_jemalloc" path="external/jemalloc" remote="aosp-caf" />
+  <project name="platform_external_mksh" path="external/mksh" remote="aosp-caf" />
+  <project name="platform_external_ntfs-3g" path="external/ntfs-3g" remote="aosp-caf" />
+  <project name="platform_external_okhttp" path="external/okhttp" remote="aosp-caf" />
+  <project name="platform_external_tinyalsa" path="external/tinyalsa" remote="aosp-caf" />
+  <project name="platform_external_tinycompress" path="external/tinycompress" remote="aosp-caf" />
+  <project name="platform_external_toybox" path="external/toybox" remote="aosp-caf" />
+  <project name="platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="aosp-caf" />
+  <project name="platform_external_zlib" path="external/zlib" remote="aosp-caf" />
+  <project name="platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="aosp-caf" />
+  <project name="platform_hardware_libhardware" path="hardware/libhardware" remote="aosp-caf" />
+  <project name="platform_hardware_qcom_bt" path="hardware/qcom/bt" remote="aosp-caf" />
+  <project name="platform_hardware_qcom_bt" path="hardware/qcom/bt-caf" revision="n-mr1-caf" remote="aosp-caf" />
+  <project name="platform_hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="aosp-caf" />
+  <project name="platform_hardware_qcom_wlan" path="hardware/qcom/wlan" remote="aosp-caf" />
+  <project name="platform_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" revision="n-mr1-caf" remote="aosp-caf" />
+  <project name="platform_hardware_ril" path="hardware/ril" remote="aosp-caf" />
+  <project name="platform_hardware_ril" path="hardware/ril-caf" revision="n-mr1-caf" remote="aosp-caf" />
+  <project name="platform_system_bt" path="system/bt" remote="aosp-caf" />
+  <project name="platform_system_netd" path="system/netd" remote="aosp-caf" />
+  <project name="platform_system_qcom" path="vendor/qcom/opensource/softap" remote="aosp-caf" />
+  <project name="platform_vendor_qcom-opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="aosp-caf" />
+  <project name="platform_vendor_qcom-opensource_dpm" path="vendor/qcom/opensource/dpm" remote="aosp-caf" />
+  <project name="platform_vendor_qcom-opensource_fm" path="vendor/qcom/opensource/fm" remote="aosp-caf" />
+  <!-- END AOSP-CAF -->
+
+</manifest>
