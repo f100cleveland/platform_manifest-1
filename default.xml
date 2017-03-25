@@ -554,6 +554,9 @@
 
   <!-- Add all tracked Screw'd repos -->
   <include name="manifests/screwd.xml" />
+
+  <!-- Import from LineageOS -->
+  <include name="manifests/laos.xml" />
   
   <!-- Add UBERTC -->
   <include name="manifests/ubertc.xml" />
