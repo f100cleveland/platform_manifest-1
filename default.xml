@@ -426,7 +426,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" />
-  <project path="system/bt" name="platform/system/bt" groups="pdk" />
   <project path="system/ca-certificates" name="platform/system/ca-certificates" groups="pdk" />
   <project path="system/connectivity/apmanager" name="platform/system/connectivity/apmanager" />
   <project path="system/connectivity/dhcp_client" name="platform/system/connectivity/dhcp_client" />
@@ -508,6 +507,7 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="screwd" revision="n7x" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="screwd" revision="n7x" />
   <project path="prebuilts/misc" name="prebuilts_misc" remote="screwd" revision="n7x" />
+  <project path="system/bt" name="system_bt" remote="screwd" revision="n7x" />
   <project path="system/core" name="system_core" remote="screwd" revision="n7x-caf" />
   <project path="system/extras" name="system_extras" remote="screwd" revision="n7x-caf" />
   <project path="system/media" name="system_media" remote="screwd" revision="n7x-caf" />
