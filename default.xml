@@ -9,6 +9,23 @@
            sync-c="true"
            sync-j="4" />
 
+  <remote name="github"
+           fetch="https://github.com/" />
+
+  <remote name="gitlab"
+           fetch="https://gitlab.com/" />
+ 
+  <remote name="screwd"
+           fetch="https://github.com/ScrewdAOSP" />
+
+  <remote  name="aosp-caf"
+           fetch="https://github.com/AOSP-CAF"
+           revision="refs/heads/n-mr1" />
+
+  <remote  name="laos"
+           fetch="https://github.com/LineageOS"
+           revision="refs/heads/cm-14.1" /> 
+
   <project path="build" name="platform/build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>

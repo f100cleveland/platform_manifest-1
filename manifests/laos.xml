@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="laos"
-           fetch="https://github.com/LineageOS"
-           revision="refs/heads/cm-14.1" /> 
-
   <!-- BEGIN LINEAGE-OS -->
   <project name="android_external_libncurses" path="external/libncurses" remote="laos" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="laos" />

@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Remotes -->
-  <remote name="github"
-           fetch="https://github.com/" />
-
-  <remote name="gitlab"
-           fetch="https://gitlab.com/" />
- 
-  <remote name="screwd"
-           fetch="https://github.com/ScrewdAOSP" />
-
   <!-- Screw'd Repos -->
   <project path="platform_manifest" name="platform_manifest" remote="screwd" revision="n7x-caf2" />
   <project path="art" name="art" remote="screwd" revision="n7x" />
