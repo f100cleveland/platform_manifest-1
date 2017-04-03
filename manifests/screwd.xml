@@ -19,7 +19,6 @@
   <project path="build" name="build" remote="screwd" revision="n7x-caf" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="device/oneplus/oneplus3" name="device_oneplus_oneplus3" remote="screwd" revision="n7x-caf" />
   <project path="external/busybox" name="external_busybox" remote="screwd" revision="n7x" />
   <project path="external/DUtils" name="external_DUtils" remote="screwd" revision="n7x" />
   <project path="external/google" name="external_google" remote="screwd" revision="n7x" />
