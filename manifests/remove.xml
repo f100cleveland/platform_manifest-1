@@ -122,4 +122,7 @@
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/ril" />
   <remove-project name="platform/system/bt" />
+
+  <remove-project name="platform/external/libnfc-nci" />
+  <remove-project name="platform/external/libnfc-nxp" />
 </manifest>

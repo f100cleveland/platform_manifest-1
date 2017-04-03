@@ -33,7 +33,6 @@
   <project name="platform_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" revision="n-mr1-caf" remote="aosp-caf" />
   <project name="platform_hardware_ril" path="hardware/ril" remote="aosp-caf" />
   <project name="platform_hardware_ril" path="hardware/ril-caf" revision="n-mr1-caf" remote="aosp-caf" />
-  <project name="platform_system_bt" path="system/bt" remote="aosp-caf" />
   <project name="platform_system_netd" path="system/netd" remote="aosp-caf" />
   <project name="platform_system_qcom" path="vendor/qcom/opensource/softap" remote="aosp-caf" />
   <project name="platform_vendor_qcom-opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="aosp-caf" />
