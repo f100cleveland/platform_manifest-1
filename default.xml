@@ -564,6 +564,9 @@
 
   <!-- Add all tracked Screw'd repos -->
   <include name="manifests/screwd.xml" />
+
+  <!-- Add repos from DU -->
+  <include name="manifests/du.xml" />
   
   <!-- Add UBERTC -->
   <include name="manifests/ubertc.xml" />
