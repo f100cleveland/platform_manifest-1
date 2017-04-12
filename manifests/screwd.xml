@@ -65,6 +65,7 @@
   <project path="system/media" name="system_media" remote="screwd" revision="n7x-caf" />
   <project path="system/netd" name="system_netd" remote="screwd" revision="n7x-caf" />
   <project path="system/sepolicy" name="system_sepolicy" remote="screwd" revision="n7x-caf" />
+  <project path="system/vold" name="system_vold" remote="screwd" revision="n7x-caf" />
   <project path="vendor/screwd" name="vendor_screwd" remote="screwd" revision="n7x" >
      <copyfile src="build.sh" dest="rom-build.sh" />
      <copyfile src="kernel_build.sh" dest="kernel-build.sh" />
