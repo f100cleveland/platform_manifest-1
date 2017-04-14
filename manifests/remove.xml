@@ -44,6 +44,7 @@
   <remove-project name="device/moto/shamu" />
   <remove-project name="device/moto/shamu-kernel" />
   <remove-project name="device/sample" />
+
   <remove-project name="platform/external/libnfc-nci" />
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/tinycompress" />
